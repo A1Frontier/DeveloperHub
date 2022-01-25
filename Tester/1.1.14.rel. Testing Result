@@ -1,0 +1,42 @@
+Bug Report Template
+
+ID number	#2022 - 001
+Reporter	John H
+Tester	John H
+Submit Date	01/25/2022
+Summary	Pre-launch Testing
+Software Version	1.1.14. rel.
+DPN connection	 All in one – Mini – WI-FI router
+Description
+To test network speed measurement
+To test ad blocking
+To verify the DPR tab
+
+Steps to reproduce
+The incoming network cable connected near the power supply.
+1.	Reboot the mini
+2.	Reboot the router
+3.	Clear the caches from the browser
+4.	Wi-Fi. 2.4ghz connection, PING 16 ms/ DOWNLOAD 34.60Mbps/10.41 UPLOAD Mbps – The speed result is ok to assign this mini for 50Mbps/10Mbps.
+5.	The ad blocking works on the porn sites, youtube ads, regular web ads.
+6.	All DPR tab are functioning
+
+Switch the Mini’s ports, the incoming network cable is near far end of the power supply.
+
+7.	Reboot the mini again
+8.	Reboot the router again
+9.	Clear the caches from the browser again
+10.	Wi-fi 2.4ghz connection., PING 16 ms/ 32.09 DOWNLOAD Mbps/10.49UPLOAD Mbps. The speed result is ok to assign this mini for 50Mbps/10Mbps.
+11.	The ad blocking works on the porn sites, youtube ads, regular web ads.
+12.	All DPR tab are functioning.
+
+Expected result
+Network speed measurement meets the expectation.
+Ad blocking is working as supposed to be.
+All DPR tab works to display.
+
+Actual result
+Meet all requirement as 1.1.12.rel.
+
+Notes
+Recommending to release 1.1.14.rel.
