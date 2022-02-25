@@ -1,0 +1,35 @@
+ID number	#2022 - 003
+Reporter	John H
+Tester	John H
+Submit Date	02/25/2022
+Summary	DPR – Wallet - Wallet Management (Transfer DPR issue)
+Software Version	1.1.14. rel.
+DPN connection	 All in one – Mini – WI-FI router (dd-wrt)
+Severity	Major
+Priority	High
+
+Description
+To propose setting up min and max DPR transfer under DPR – Wallet – Wallet Management.  
+1.	Transfer DPR is a great functionality for current 1.1.14.rel.
+2.	The AtomOS system currently allow transfer any amount balance to the other Deeper Wallet on the deeper chain.
+3.	Recommending to keep minimum 2~5 DPRs to avoid any chain issue when transferring away mined DPR.
+4.	Recommending to set up the minimum and maximum transfer amount to maintain the chain’ stability and reliability.
+5.	Recommending to follow the current practice of Deeper Network Deeper Chain Bridge.
+
+Steps to reproduce
+
+1.	Withdraw different amount of DPRs from one mini to the other mini in the deeper chain.
+2.	Can’t withdraw any amount of DPRs from Wallet tab directly to metabasite.
+3.	Only be able to use deeper chain bridge to transfer away DPRs to metamask.
+
+
+Expected result
+1.	To warn the user keeping 2 DPRs at least in the wallet before transferring away.
+2.	Need to set up the minimum amount of DPRs requirement and also limiting the Maximum amount of DPRs. First batch of 9 month staked period is coming up.
+3.	Need to add address the issue if the staked DPRs slowly release to deeper chain
+
+Actual result
+The user can do whatever they want for transferring right now.
+
+Notes
+Please take the proactive action to follow the best practice of deeper chain bridge.
