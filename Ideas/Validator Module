@@ -1,0 +1,13 @@
+if the main chain is stable now, please consider the validator module. It is very popular for validation purpose.
+
+Validation module is necessary to check whether the staking, unstaking, PofCr, Credit Score, etc are correct or not for each deeper device.
+
+This module is easy to be added and use and validates data quickly and easily.
+
+It will reduce the amount of supporting tickets from the community members.
+
+Per weekly dev meeting Sunday Feb 27, 2022. AtomOS has different validation coding session.
+
+It needs to be pulled out each single piece of aalidation coding information in order to help future maturity accesssment.
+
+Validation Module is a must. The module determines the current state of maturity of deeper network to utilize data and information in an advanced manner.
